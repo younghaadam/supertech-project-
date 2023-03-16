@@ -24,7 +24,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Supertech Project] <a name="about-project"></a>
+# 📖 [Supertech Project] <a name="service-project"></a>
 
 Supertech Project
 ## 🛠 Built With <a name="built-with"></a>
@@ -128,7 +128,7 @@ rspec spec
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Profsain/hello-rails-react/issues/).
+Feel free to check the [issues page](https://github.com/adeoye/hello-rails-react/issues/).
 
 ## Show your support
 
