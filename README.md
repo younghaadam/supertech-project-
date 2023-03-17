@@ -27,6 +27,7 @@
 # 📖 [Supertech Project] <a name="about-project"></a>
 
 Supertech Project
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -77,10 +78,12 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
->## Getting Started
-To get a local copy up and running follow these simple example steps.
+> ## Getting Started
+>
+> To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+
 - Have a computer and internet connection
 - Have `Ruby` installed on your computer
 - Have a basic knowledge of `Ruby` and `OOP` concept
@@ -88,47 +91,62 @@ To get a local copy up and running follow these simple example steps.
 - Have `visual-studio code` or any other code editor installed on your computer.
 
 ### Setup
+
 - In order to get a copy of this project you need to download it from https://github.com/Profsain/hello-rails-react
 - Extract the zipped file and open it in your code editor
+
 ### Install
-- Run the command bellow in your terminal to get all required files 
-``` Ruby
+
+- Run the command bellow in your terminal to get all required files
+
+```Ruby
 bundle install
 ```
 
 ### Run Server
+
 - Run the command bellow in your terminal
   rails server
+
 ```Ruby
 rails server
 ```
+
 ### Run tests
+
 you can run one of the following command in your terminal
+
 1. Run testing
+
 ```Ruby
 rspec spec
 ```
+
 2. Run linters
+
 ```Ruby
 > Rubocop --color
 > Rubocop -A
 ```
+
 ## Authors
 
-👤 **Husseini Mudi Profsain**
+👤 **Israel Usman**
 
-- GitHub: [@githubhandle](https://github.com/Profsain)
-- Twitter: [@twitterhandle](https://twitter.com/profsain)
+- GitHub: [@githubhandle](https://github.com/israelusman234)
+- Twitter: [@twitterhandle](https://twitter.com/princeisraethe)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/profsain)
 
 ## Future Feature
+
 - Add users account
 - Sending greeting message to group
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Profsain/hello-rails-react/issues/).
+Feel free to check the [issues page](https://github.com/Israelusman/hello-rails-react/issues/).
 
 ## Show your support
 
@@ -140,7 +158,7 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse 
+I would like to thank Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
