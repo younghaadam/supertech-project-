@@ -131,11 +131,17 @@ rspec spec
 
 ## Authors
 
-👤 **Israel Usman**
+👤 **Husseini Mudi**
+
+- GitHub: [@githubhandle](https://github.com/profsain)
+- Twitter: [@twitterhandle](https://twitter.com/profsain)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/profsain)
+
+👤 **Israel Usamn**
 
 - GitHub: [@githubhandle](https://github.com/israelusman234)
-- Twitter: [@twitterhandle](https://twitter.com/princeisraethe)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/profsain)
+- Twitter: [@twitterhandle](https://twitter.com/princeisraelthe)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/israelusman234)
 
 ## Future Feature
 
