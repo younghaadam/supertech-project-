@@ -24,7 +24,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Supertech Project] <a name="home-project"></a>
+# 📖 [Supertech Project] <a name="homepage-project"></a>
 
 Supertech Project
 ## 🛠 Built With <a name="built-with"></a>
@@ -115,11 +115,18 @@ rspec spec
 ```
 ## Authors
 
+
 👤 **Husseini Mudi Profsain**
 
 - GitHub: [@githubhandle](https://github.com/Profsain)
 - Twitter: [@twitterhandle](https://twitter.com/profsain)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/profsain)
+
+👤 **Osawmonyi Joshua**
+
+- GitHub: [@githubhandle](https://github.com/Joshnolove)
+- Twitter: [@twitterhandle](https://twitter.com/joshnolove)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/joshnolove)
 
 ## Future Feature
 - Add users account
