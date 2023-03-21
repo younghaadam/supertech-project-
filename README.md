@@ -121,6 +121,12 @@ rspec spec
 - Twitter: [@twitterhandle](https://twitter.com/profsain)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/profsain)
 
+👤 **Matanmi Adeoye**
+
+- GitHub: [@githubhandle](https://github.com/oyenise)
+- Twitter: [@twitterhandle](https://twitter.com/lagosferrari)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/matanmi adeoye solomon)
+
 ## Future Feature
 - Add users account
 - Sending greeting message to group
